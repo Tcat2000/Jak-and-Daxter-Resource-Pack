@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/custom_short_grass",
-		"particle": "block/custom_short_grass"
+		"0": "block/custom/custom_short_grass",
+		"particle": "block/custom/custom_short_grass"
 	},
 	"elements": [
 		{
@@ -135,5 +135,30 @@
 				"down": {"uv": [0, 0, 13, 0], "texture": "#missing"}
 			}
 		}
-	]
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"ground": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [45, 45, 0],
+			"translation": [1.75, 1, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
 }

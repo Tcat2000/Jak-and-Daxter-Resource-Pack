@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/tinted_cross",
 	"textures": {
-		"1": "block/new_large_grass",
-		"particle": "block/new_large_grass"
+		"1": "block/custom/new_large_grass",
+		"particle": "block/custom/new_large_grass"
 	},
 	"elements": [
 		{
