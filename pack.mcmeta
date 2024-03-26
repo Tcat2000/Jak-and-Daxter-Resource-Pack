@@ -1,6 +1,14 @@
 {
   "pack": {
     "pack_format": 22,
-    "description": "Jak and Daxter in Minecraft!"
+    "description": "Offical Jak and Daxter Map Resource Pack!"
+  },
+  "language": {
+    "en_pc": {
+      "name":"Jak and Daxter Dev Lang",
+      "region":"Tarnation",
+      "bidirectional": false,
+      "__comment": "Language to change the names of all the items and block changed in the resourcepack"
+    }
   }
 }

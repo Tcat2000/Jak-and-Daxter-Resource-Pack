@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"parent": "block/slab",
 	"textures": {
 		"0": "block/grass_block_side_overlay",
 		"1": "block/grass_block_top",
@@ -591,6 +592,13 @@
 			}
 		}
 	],
+	"display": {
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, 4, 0],
+			"scale": [0.625, 0.625, 0.625]
+		}
+	},
 	"groups": [
 		0,
 		{
