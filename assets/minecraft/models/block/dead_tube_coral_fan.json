@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/custom/rocks",
-		"particle": "block/custom/stone"
+		"particle": "block/custom/rocks"
 	},
 	"elements": [
 		{
