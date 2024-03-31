@@ -1,0 +1,20 @@
+{
+    "language.name":"Jak and Daxter Dev Lang",
+    "language.region":"Tarnation",
+    "language.code":"en_pc",
+    "block.minecraft.dead_tube_coral_fan":"JAD/Rocks",
+    "block.minecraft.dead_horn_coral_fan":"JAD/Spike Flower",
+    "block.minecraft.dead_tube_coral":"JAD/Purple Leaf Plant",
+    "block.minecraft.dead_brain_coral":"JAD/Brown Leaf Plant",
+    "block.minecraft.dead_bubble_coral":"JAD/Orange Flower Plant",
+    "block.minecraft.dead_fire_coral":"JAD/Blue Leaf Plant",
+    "block.minecraft.dead_horn_coral":"JAD/Grass Tuft",
+    "block.minecraft.tube_coral":"JAD/Water Crop",
+    "block.minecraft.diorite_wall":"JAD/Bone Wall",
+    "block.minecraft.pink_glazed_terracotta":"JAD/Wood Flooring",
+    "block.minecraft.granite_wall":"JAD/Oak Wall",
+    "block.minecraft.netherbrick_fence":"JAD/Bone Fence",
+    "block.minecraft.pink_carpet":"JAD/Grass Overlay",
+    "block.minecraft.purpur_slab":"JAD/Grass Slab",
+    "block.minecraft.end_stone_brick_slab":"JAD/Moss Slab"
+}

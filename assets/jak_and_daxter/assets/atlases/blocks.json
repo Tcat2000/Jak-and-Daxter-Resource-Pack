@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "custom",
+      "prefix": "custom/"
+    },
+    {
+      "type": "directory",
+      "source": "flooring",
+      "prefix": "flooring/"
+    },
+    {
+      "type": "directory",
+      "source": "metal",
+      "prefix": "metal/"
+    }
+  ]
+}
