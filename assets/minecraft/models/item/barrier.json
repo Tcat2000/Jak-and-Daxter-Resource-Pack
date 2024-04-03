@@ -1,0 +1,44 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/barrier"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 7465680
+            },
+            "model": "minecraft:obj/jump_pad"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465681
+            },
+            "model": "minecraft:obj/eco_vent_normal"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465682
+            },
+            "model": "minecraft:obj/eco_vent_open"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465683
+            },
+            "model": "minecraft:obj/eco_vent_closed"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465684
+            },
+            "model": "minecraft:item/egg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465685
+            },
+            "model": "minecraft:block/barrier"
+        }
+    ]
+}
