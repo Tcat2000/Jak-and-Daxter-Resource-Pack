@@ -39,6 +39,18 @@
                 "custom_model_data": 7465685
             },
             "model": "minecraft:block/barrier"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465686
+            },
+            "model": "minecraft:block/windmill1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465687
+            },
+            "model": "minecraft:block/wind_catcher"
         }
     ]
 }
