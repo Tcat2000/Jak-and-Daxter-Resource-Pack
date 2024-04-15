@@ -51,6 +51,12 @@
                 "custom_model_data": 7465687
             },
             "model": "minecraft:block/wind_catcher"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465688
+            },
+            "model": "minecraft:block/boat"
         }
     ]
 }
