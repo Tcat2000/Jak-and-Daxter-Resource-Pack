@@ -63,6 +63,12 @@
                 "custom_model_data": 7465689
             },
             "model": "minecraft:block/cannon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465690
+            },
+            "model": "minecraft:block/eco_receptor"
         }
     ]
 }
