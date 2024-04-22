@@ -57,6 +57,12 @@
                 "custom_model_data": 7465688
             },
             "model": "minecraft:block/boat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465689
+            },
+            "model": "minecraft:block/cannon"
         }
     ]
 }
