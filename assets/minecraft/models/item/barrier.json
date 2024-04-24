@@ -68,7 +68,7 @@
             "predicate": {
                 "custom_model_data": 7465690
             },
-            "model": "minecraft:block/eco_receptor"
+            "model": "minecraft:block/eco_receptor2"
         },
         {
             "predicate": {
