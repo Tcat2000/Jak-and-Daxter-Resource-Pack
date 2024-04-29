@@ -75,6 +75,18 @@
                 "custom_model_data": 7465691
             },
             "model": "minecraft:block/windmill2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465692
+            },
+            "model": "minecraft:block/elevator_wheel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465693
+            },
+            "model": "minecraft:block/elevator_platform"
         }
     ]
 }
