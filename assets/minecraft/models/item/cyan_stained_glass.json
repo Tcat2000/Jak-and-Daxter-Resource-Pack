@@ -1,0 +1,65 @@
+{
+    "parent": "minecraft:block/cyan_stained_glass",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 7465680
+            },
+            "model": "minecraft:waterfall/waterfall_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465681
+            },
+            "model": "minecraft:waterfall/waterfall_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465682
+            },
+            "model": "minecraft:waterfall/waterfall_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465683
+            },
+            "model": "minecraft:waterfall/waterfall_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465684
+            },
+            "model": "minecraft:waterfall/waterfall_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465685
+            },
+            "model": "minecraft:waterfall/waterfall_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 74656866
+            },
+            "model": "minecraft:waterfall/waterfall_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465687
+            },
+            "model": "minecraft:waterfall/waterfall_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465688
+            },
+            "model": "minecraft:waterfall/waterfall_8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465689
+            },
+            "model": "minecraft:waterfall/waterfall_9"
+        }
+    ]
+}

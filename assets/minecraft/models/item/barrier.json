@@ -87,8 +87,7 @@
                 "custom_model_data": 7465693
             },
             "model": "minecraft:block/elevator_platform"
-        }
-        ,
+        },
         {
             "predicate": {
                 "custom_model_data": 7465694
