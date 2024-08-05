@@ -6,15 +6,15 @@
           "weight": 2
         },
         {
-          "model": "minecraft:block/stone_bricks1",
+          "model": "jak_and_daxter:block/stone/stone_bricks1",
           "weight": 1
         },
         {
-          "model": "minecraft:block/stone_bricks2",
+          "model": "jak_and_daxter:block/stone/stone_bricks2",
           "weight": 1
         },
         {
-          "model": "minecraft:block/stone_bricks3",
+          "model": "jak_and_daxter:block/stone/stone_bricks3",
           "weight": 1
         }
       ]

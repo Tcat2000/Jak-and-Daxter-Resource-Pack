@@ -1,0 +1,14 @@
+{
+    "variants": {
+      "type=bottom": {
+        "model": "jak_and_daxter:block/terrain/grass_slab"
+      },
+      "type=double": {
+        "model": "minecraft:block/grass_block"
+      },
+      "type=top": {
+        "model": "jak_and_daxter:block/terrain/grass_slab"
+      }
+    }
+  }
+  

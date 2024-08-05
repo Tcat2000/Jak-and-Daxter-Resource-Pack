@@ -44,49 +44,49 @@
             "predicate": {
                 "custom_model_data": 7465686
             },
-            "model": "minecraft:block/windmill1"
+            "model": "jak_and_daxter:block_model/windmill1"
         },
         {
             "predicate": {
                 "custom_model_data": 7465687
             },
-            "model": "minecraft:block/wind_catcher"
+            "model": "jak_and_daxter:block_model/wind_catcher"
         },
         {
             "predicate": {
                 "custom_model_data": 7465688
             },
-            "model": "minecraft:block/boat"
+            "model": "jak_and_daxter:block_model/boat"
         },
         {
             "predicate": {
                 "custom_model_data": 7465689
             },
-            "model": "minecraft:block/cannon"
+            "model": "jak_and_daxter:block_model/cannon"
         },
         {
             "predicate": {
                 "custom_model_data": 7465690
             },
-            "model": "minecraft:block/eco_receptor2"
+            "model": "jak_and_daxter:block_model/eco_receptor2"
         },
         {
             "predicate": {
                 "custom_model_data": 7465691
             },
-            "model": "minecraft:block/windmill2"
+            "model": "jak_and_daxter:block_model/windmill2"
         },
         {
             "predicate": {
                 "custom_model_data": 7465692
             },
-            "model": "minecraft:block/elevator_wheel"
+            "model": "jak_and_daxter:block_model/elevator_wheel"
         },
         {
             "predicate": {
                 "custom_model_data": 7465693
             },
-            "model": "minecraft:block/elevator_platform"
+            "model": "jak_and_daxter:block_model/elevator_platform"
         },
         {
             "predicate": {

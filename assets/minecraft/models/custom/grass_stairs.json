@@ -1,0 +1,45 @@
+{
+	"credit": "Made by Tcathebluecreper",
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/dirt",
+		"bottom": "block/dirt",
+		"top": "block/grass_block_top"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 16], "texture": "#top", "cullface": "north", "tintindex": 0},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "east", "tintindex": 0},
+				"south": {"uv": [8, 0, 16, 16], "texture": "#top", "cullface": "south", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#top", "tintindex": 0},
+				"up": {"uv": [8, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [8, 0, 16, 16], "texture": "#bottom"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [8, 8, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 8], "texture": "#top", "cullface": "north", "tintindex": 0},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#top", "cullface": "east", "tintindex": 0},
+				"south": {"uv": [8, 0, 16, 8], "texture": "#top", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#top", "cullface": "west", "tintindex": 0},
+				"up": {"uv": [8, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 8, 16], "texture": "#bottom"}
+			}
+		}
+	],
+	"display": {},
+	"groups": [
+		{
+			"name": "grass_block",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+    "parent": "minecraft:block/white_stained_glass",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 7465680
+            },
+            "model": "minecraft:cloud/cloud_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465681
+            },
+            "model": "minecraft:cloud/cloud_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465682
+            },
+            "model": "minecraft:cloud/cloud_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465683
+            },
+            "model": "minecraft:cloud/cloud_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465684
+            },
+            "model": "minecraft:cloud/cloud_4"
+        }
+    ]
+}
