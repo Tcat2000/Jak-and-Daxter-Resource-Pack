@@ -2,13 +2,13 @@
     "variants": {
         "": [
             {
-                "model": "minecraft:block/magma/magma1"
+                "model": "jak_and_daxter:block/magma/magma1"
             },
             {
-                "model": "minecraft:block/magma/magma2"
+                "model": "jak_and_daxter:block/magma/magma2"
             },
             {
-                "model": "minecraft:block/magma/magma3"
+                "model": "jak_and_daxter:block/magma/magma3"
             }
         ]
     }

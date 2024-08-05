@@ -4,6 +4,8 @@
     "language.code":"en_pc",
     "block.minecraft.dead_tube_coral_fan":"JAD/Rocks",
     "block.minecraft.dead_horn_coral_fan":"JAD/Spike Flower",
+    "block.minecraft.dead_brain_coral_fan":"JAD/Ground Plant",
+    "block.minecraft.dead_bubble_coral_fan":"JAD/Jungle Grass",
     "block.minecraft.dead_tube_coral":"JAD/Purple Leaf Plant",
     "block.minecraft.dead_brain_coral":"JAD/Brown Leaf Plant",
     "block.minecraft.dead_bubble_coral":"JAD/Orange Flower Plant",
