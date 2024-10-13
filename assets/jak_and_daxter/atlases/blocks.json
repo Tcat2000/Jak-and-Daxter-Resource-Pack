@@ -7,7 +7,21 @@
     },
     {
       "type": "directory",
+<<<<<<< HEAD
       "source": "flooring",
+=======
+      "source": "jak_and_daxter/block/folieage",
+      "prefix": "folieage/"
+    },
+    {
+      "type": "directory",
+      "source": "jak_and_daxter/block/folieage",
+      "prefix": "block/folieage/"
+    },
+    {
+      "type": "directory",
+      "source": "jak_and_daxter/block/flooring",
+>>>>>>> 89414a3 (refactor)
       "prefix": "flooring/"
     },
     {

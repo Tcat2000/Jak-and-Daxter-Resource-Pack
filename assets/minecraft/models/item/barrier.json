@@ -93,6 +93,12 @@
                 "custom_model_data": 7465694
             },
             "model": "minecraft:item/orb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7465695
+            },
+            "model": "jak_and_daxter:particle/fire_fly"
         }
     ]
 }

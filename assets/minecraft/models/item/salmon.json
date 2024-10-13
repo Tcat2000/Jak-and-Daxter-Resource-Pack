@@ -1,0 +1,665 @@
+{
+  "parent": "minecraft:block/white_stained_glass",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 0
+      },
+      "model": "npcs/right_leg/cube0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "npcs/right_leg/cube1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "npcs/right_leg/cube2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "npcs/right_leg/cube3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "npcs/left_leg/cube0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "npcs/left_leg/cube1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "npcs/left_leg/cube2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "npcs/left_leg/cube3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "npcs/body/cube0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "npcs/body/cube1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "npcs/body/cube2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "npcs/body/cube3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "npcs/body/cube4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "npcs/body/cube5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "npcs/body/cube6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "npcs/body/cube7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "npcs/body/cube8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "npcs/body/cube9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "npcs/body/cube10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "npcs/body/cube11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "npcs/body/cube12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "npcs/body/cube13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "npcs/body/cube14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "npcs/body/cube15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "npcs/body/cube16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "npcs/body/cube17"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "npcs/body/cube18"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "npcs/body/cube19"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "npcs/body/cube20"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "npcs/body/cube21"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "npcs/body/cube22"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "npcs/body/cube23"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "npcs/body/cube24"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "npcs/body/cube25"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "npcs/body/cube26"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "npcs/body/cube27"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "npcs/body/cube28"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "npcs/body/cube29"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "npcs/left_arm/cube0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "npcs/left_arm/cube1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "npcs/left_arm/cube2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "npcs/left_arm/cube3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "npcs/left_arm/cube4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "npcs/left_arm/cube5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "npcs/right_arm/cube0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "npcs/right_arm/cube1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "npcs/right_arm/cube2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "npcs/right_arm/cube3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "npcs/right_arm/cube4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "npcs/right_arm/cube5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "npcs/head/cube0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "npcs/head/cube1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "npcs/head/cube2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "npcs/head/cube3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "npcs/head/cube4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "npcs/head/cube5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "npcs/head/cube6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "npcs/head/cube7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "npcs/head/cube8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "npcs/head/cube9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "npcs/head/cube10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "npcs/head/cube11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "npcs/head/cube12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "npcs/head/cube13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "npcs/head/cube14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "npcs/head/cube15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 51
+      },
+      "model": "npcs/head/cube16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "npcs/head/cube17"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 53
+      },
+      "model": "npcs/head/cube18"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 54
+      },
+      "model": "npcs/head/cube19"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 55
+      },
+      "model": "npcs/head/cube20"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 56
+      },
+      "model": "npcs/head/cube21"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 57
+      },
+      "model": "npcs/head/cube22"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58
+      },
+      "model": "npcs/head/cube23"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 59
+      },
+      "model": "npcs/head/cube24"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60
+      },
+      "model": "npcs/head/cube25"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61
+      },
+      "model": "npcs/head/cube26"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 62
+      },
+      "model": "npcs/head/cube27"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 63
+      },
+      "model": "npcs/head/cube28"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 64
+      },
+      "model": "npcs/head/cube29"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 65
+      },
+      "model": "npcs/head/cube30"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 66
+      },
+      "model": "npcs/head/cube31"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 67
+      },
+      "model": "npcs/head/cube32"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 68
+      },
+      "model": "npcs/head/cube33"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 69
+      },
+      "model": "npcs/head/cube34"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "npcs/hat/cube0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "npcs/hat/cube1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "npcs/hat/cube2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "npcs/hat/cube3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "npcs/hat/cube4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "npcs/hat/cube5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "npcs/hat/cube6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "npcs/hat/cube7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "npcs/hat/cube8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 51
+      },
+      "model": "npcs/hat/cube9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "npcs/hat/cube10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 53
+      },
+      "model": "npcs/hat/cube11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 54
+      },
+      "model": "npcs/hat/cube12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 55
+      },
+      "model": "npcs/hat/cube13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 56
+      },
+      "model": "npcs/hat/cube14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 57
+      },
+      "model": "npcs/hat/cube15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58
+      },
+      "model": "npcs/hat/cube16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 59
+      },
+      "model": "npcs/hat/cube17"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60
+      },
+      "model": "npcs/hat/cube18"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61
+      },
+      "model": "npcs/hat/cube19"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 62
+      },
+      "model": "npcs/hat/cube20"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 63
+      },
+      "model": "npcs/hat/cube21"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 64
+      },
+      "model": "npcs/hat/cube22"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 65
+      },
+      "model": "npcs/hat/cube23"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 66
+      },
+      "model": "npcs/hat/cube24"
+    }
+  ]
+}
