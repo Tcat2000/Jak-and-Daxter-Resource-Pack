@@ -1,0 +1,33 @@
+{
+	"textures": {
+		"0": "animated_java:item/door_7x7/door"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [4.47059, -16, 8],
+			"to": [18.02353, 0.94118, 8],
+			"rotation": {
+				"angle": 45,
+				"axis": "z",
+				"origin": [4.47059, -7.52941, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 15, 12],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [15, 0, 0, 12],
+					"rotation": 90,
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

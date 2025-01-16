@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "jak_and_daxter:block_model/elevator_platform"
+    }
+}
