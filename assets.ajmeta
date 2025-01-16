@@ -1,0 +1,74 @@
+{
+	"door_4x4": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/item/door_4x4/door.png",
+			"assets/animated_java/textures/item/transparent.png",
+			"assets/animated_java/models/item/door_4x4/default/segment.json",
+			"assets/animated_java/models/item/door_4x4/default/segment2.json",
+			"assets/animated_java/models/item/door_4x4/default/segment3.json",
+			"assets/animated_java/models/item/door_4x4/default/segment4.json",
+			"assets/animated_java/models/item/door_4x4/default/segment5.json",
+			"assets/animated_java/models/item/door_4x4/default/segment6.json",
+			"assets/animated_java/models/item/door_4x4/default/segment7.json",
+			"assets/animated_java/models/item/door_4x4/default/segment8.json"
+		]
+	},
+	"door_5x5": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/item/door_5x5/door.png",
+			"assets/animated_java/textures/item/transparent.png",
+			"assets/animated_java/models/item/door_5x5/default/bone11.json",
+			"assets/animated_java/models/item/door_5x5/default/bone9.json",
+			"assets/animated_java/models/item/door_5x5/default/bone12.json",
+			"assets/animated_java/models/item/door_5x5/default/bone10.json",
+			"assets/animated_java/models/item/door_5x5/default/bone13.json",
+			"assets/animated_java/models/item/door_5x5/default/bone14.json",
+			"assets/animated_java/models/item/door_5x5/default/bone15.json",
+			"assets/animated_java/models/item/door_5x5/default/bone16.json"
+		]
+	},
+	"door_7x7": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/item/door_7x7/door.png",
+			"assets/animated_java/textures/item/transparent.png",
+			"assets/animated_java/models/item/door_7x7/default/bone11.json",
+			"assets/animated_java/models/item/door_7x7/default/bone9.json",
+			"assets/animated_java/models/item/door_7x7/default/bone12.json",
+			"assets/animated_java/models/item/door_7x7/default/bone10.json",
+			"assets/animated_java/models/item/door_7x7/default/bone13.json",
+			"assets/animated_java/models/item/door_7x7/default/bone14.json",
+			"assets/animated_java/models/item/door_7x7/default/bone15.json",
+			"assets/animated_java/models/item/door_7x7/default/bone16.json"
+		]
+	},
+	"jak": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/textures/item/jak/player.png",
+			"assets/animated_java/textures/item/transparent.png",
+			"assets/animated_java/models/item/jak/default/body.json",
+			"assets/animated_java/models/item/jak/default/ring.json",
+			"assets/animated_java/models/item/jak/default/straps.json",
+			"assets/animated_java/models/item/jak/default/plate.json",
+			"assets/animated_java/models/item/jak/default/bone3.json",
+			"assets/animated_java/models/item/jak/default/bone4.json",
+			"assets/animated_java/models/item/jak/default/bone2.json",
+			"assets/animated_java/models/item/jak/default/bone.json",
+			"assets/animated_java/models/item/jak/default/right_leg.json",
+			"assets/animated_java/models/item/jak/default/right_leg_bone.json",
+			"assets/animated_java/models/item/jak/default/left_leg.json",
+			"assets/animated_java/models/item/jak/default/left_leg_bone.json",
+			"assets/animated_java/models/item/jak/default/right_arm.json",
+			"assets/animated_java/models/item/jak/default/right_arm_bone.json",
+			"assets/animated_java/models/item/jak/default/left_hand.json",
+			"assets/animated_java/models/item/jak/default/left_arm.json",
+			"assets/animated_java/models/item/jak/default/left_arm_bone.json",
+			"assets/animated_java/models/item/jak/default/plate2.json",
+			"assets/animated_java/models/item/jak/default/right_hand.json",
+			"assets/animated_java/models/item/jak/default/head.json"
+		]
+	}
+}

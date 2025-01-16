@@ -213,5 +213,6 @@
 		"fixed": {
 			"scale": [0.5, 0.5, 0.5]
 		}
-	}
+	},
+	"parent": "jak_and_daxter:block/folieage/mace_flower"
 }

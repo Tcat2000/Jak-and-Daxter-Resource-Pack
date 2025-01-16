@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"0": "animated_java:item/jak/player"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7, 8.5, 7.5625],
+			"to": [9, 9, 9],
+			"rotation": {
+				"angle": -45,
+				"axis": "z",
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [14, 4.25, 15, 4.5],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [14.25, 4, 14.96875, 4.25],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [14, 4.25, 15, 4.5],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [14.25, 4, 14.96875, 4.25],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [14, 3.25, 15, 3.96875],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [14, 3.25, 15, 3.96875],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}
