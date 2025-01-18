@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/short_grass",
-		"particle": "block/short_grass"
+		"0": "jak_and_daxter:block/custom/custom_short_grass",
+		"particle": "jak_and_daxter:block/custom/custom_short_grass"
 	},
 	"elements": [
 		{

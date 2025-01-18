@@ -2,6 +2,6 @@
   "parent": "minecraft:block/cube_column",
   "textures": {
     "end": "minecraft:block/stone_bricks",
-    "side": "minecraft:block/bricks/fancy_pancy_bricks"
+    "side": "jak_and_daxter:block/bricks/fancy_pancy_bricks"
   }
 }

@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/cube_all",
     "textures": {
-        "all": "minecraft:block/metal/dark1"
+        "all": "jak_and_daxter:block/precursor_metal/dark_engraved"
     }
 }

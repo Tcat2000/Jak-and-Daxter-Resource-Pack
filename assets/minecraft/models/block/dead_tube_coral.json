@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/custom/dead_tube_coral",
-		"particle": "block/custom/dead_tube_coral"
+		"0": "jak_and_daxter:block/folieage/blue_leaf_plant",
+		"particle": "jak_and_daxter:block/folieage/blue_leaf_plant"
 	},
 	"elements": [
 		{

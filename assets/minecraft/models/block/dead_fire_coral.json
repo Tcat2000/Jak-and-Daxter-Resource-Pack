@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "block/custom/blue_plant",
-		"particle": "block/custom/blue_plant"
+		"1": "jak_and_daxter:block/custom/blue_plant",
+		"particle": "jak_and_daxter:block/custom/blue_plant"
 	},
 	"elements": [
 		{
