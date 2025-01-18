@@ -3,9 +3,9 @@
 	"textures": {
 	  "particle": "minecraft:block/dirt",
 	  "bottom": "minecraft:block/dirt",
-	  "top": "minecraft:block/grass_block_top",
-	  "side": "minecraft:block/grass_block_top",
-	  "overlay": "minecraft:block/grass_block_side_overlay"
+	  "top": "jak_and_daxter:block/folieage/grass_block_top",
+	  "side": "jak_and_daxter:block/folieage/grass_block_top",
+	  "overlay": "jak_and_daxter:block/folieage/grass_block_side_overlay"
 	},
 	"elements": [
 	  {

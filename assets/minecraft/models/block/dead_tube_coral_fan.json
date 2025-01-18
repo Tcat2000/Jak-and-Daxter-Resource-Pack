@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/custom/rocks",
-		"particle": "block/custom/rocks"
+		"0": "jak_and_daxter:block/custom/rocks",
+		"particle": "jak_and_daxter:block/custom/rocks"
 	},
 	"elements": [
 		{

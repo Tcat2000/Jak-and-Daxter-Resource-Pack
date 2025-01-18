@@ -1,7 +1,7 @@
 {
     "variants": {
         "": {
-            "model": "minecraft:block/metal/light1"
+            "model": "jak_and_daxter:block/precursor_metal/light1"
         }
     }
 }

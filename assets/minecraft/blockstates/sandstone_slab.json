@@ -1,0 +1,14 @@
+{
+    "variants": {
+      "type=bottom": {
+        "model": "jak_and_daxter:block/folieage/mycelium_slab"
+      },
+      "type=double": {
+        "model": "jak_and_daxter:block/folieage/mycelium"
+      },
+      "type=top": {
+        "model": "jak_and_daxter:block/folieage/mycelium_slab_top"
+      }
+    }
+  }
+  

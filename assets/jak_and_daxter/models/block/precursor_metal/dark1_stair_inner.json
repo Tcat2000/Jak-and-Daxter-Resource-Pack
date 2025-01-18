@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "jak_and_daxter:block/precursor_metal/dark1",
+    "side": "jak_and_daxter:block/precursor_metal/dark1",
+    "top": "jak_and_daxter:block/precursor_metal/dark1"
+  }
+}

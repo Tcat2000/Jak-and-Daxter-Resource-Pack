@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/custom/spike_flower",
-		"particle": "block/custom/spike_flower"
+		"0": "jak_and_daxter:block/folieage/mace_flower",
+		"particle": "jak_and_daxter:block/folieage/mace_flower"
 	},
 	"elements": [
 		{

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "jak_and_daxter:block/precursor_metal/dark1"
+    }
+}
