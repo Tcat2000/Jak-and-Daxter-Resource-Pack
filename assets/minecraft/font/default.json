@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "jak_and_daxter:particle/fire.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\uE001"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=x": {
+            "model": "jak_and_daxter:block/stone/bone_block",
+            "x": 90,
+            "y": 90
+        },
+        "axis=y": {
+            "model": "jak_and_daxter:block/stone/bone_block"
+        },
+        "axis=z": {
+            "model": "jak_and_daxter:block/stone/bone_block",
+            "x": 90
+        }
+    }
+}

@@ -22,5 +22,6 @@
     "block.minecraft.pink_carpet":"JAD/Grass Overlay",
     "block.minecraft.purpur_slab":"JAD/Grass Slab",
     "block.minecraft.end_stone_brick_slab":"JAD/Moss Slab",
-    "block.minecraft.purpur_block":"JAD/Fancy Pancy Bricks"
+    "block.minecraft.purpur_block":"JAD/Fancy Pancy Bricks",
+    "block.minecraft.sea_lantern":"Sea Lantern - JAD/Pulse Lamp"
 }

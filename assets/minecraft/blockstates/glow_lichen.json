@@ -1,0 +1,150 @@
+{
+    "multipart": [
+        {
+            "apply": {
+                "model": "jak_and_daxter:block/precursor_metal/circuit"
+            },
+            "when": {
+                "north": "true"
+            }
+        },
+        {
+            "apply": {
+                "model": "jak_and_daxter:block/precursor_metal/circuit"
+            },
+            "when": {
+                "down": "false",
+                "east": "false",
+                "north": "false",
+                "south": "false",
+                "up": "false",
+                "west": "false"
+            }
+        },
+        {
+            "apply": {
+                "model": "jak_and_daxter:block/precursor_metal/circuit",
+                "uvlock": true,
+                "y": 90
+            },
+            "when": {
+                "east": "true"
+            }
+        },
+        {
+            "apply": {
+                "model": "jak_and_daxter:block/precursor_metal/circuit",
+                "uvlock": true,
+                "y": 90
+            },
+            "when": {
+                "down": "false",
+                "east": "false",
+                "north": "false",
+                "south": "false",
+                "up": "false",
+                "west": "false"
+            }
+        },
+        {
+            "apply": {
+                "model": "jak_and_daxter:block/precursor_metal/circuit",
+                "uvlock": true,
+                "y": 180
+            },
+            "when": {
+                "south": "true"
+            }
+        },
+        {
+            "apply": {
+                "model": "jak_and_daxter:block/precursor_metal/circuit",
+                "uvlock": true,
+                "y": 180
+            },
+            "when": {
+                "down": "false",
+                "east": "false",
+                "north": "false",
+                "south": "false",
+                "up": "false",
+                "west": "false"
+            }
+        },
+        {
+            "apply": {
+                "model": "jak_and_daxter:block/precursor_metal/circuit",
+                "uvlock": true,
+                "y": 270
+            },
+            "when": {
+                "west": "true"
+            }
+        },
+        {
+            "apply": {
+                "model": "jak_and_daxter:block/precursor_metal/circuit",
+                "uvlock": true,
+                "y": 270
+            },
+            "when": {
+                "down": "false",
+                "east": "false",
+                "north": "false",
+                "south": "false",
+                "up": "false",
+                "west": "false"
+            }
+        },
+        {
+            "apply": {
+                "model": "jak_and_daxter:block/precursor_metal/circuit",
+                "uvlock": true,
+                "x": 270
+            },
+            "when": {
+                "up": "true"
+            }
+        },
+        {
+            "apply": {
+                "model": "jak_and_daxter:block/precursor_metal/circuit",
+                "uvlock": true,
+                "x": 270
+            },
+            "when": {
+                "down": "false",
+                "east": "false",
+                "north": "false",
+                "south": "false",
+                "up": "false",
+                "west": "false"
+            }
+        },
+        {
+            "apply": {
+                "model": "jak_and_daxter:block/precursor_metal/circuit",
+                "uvlock": true,
+                "x": 90
+            },
+            "when": {
+                "down": "true"
+            }
+        },
+        {
+            "apply": {
+                "model": "jak_and_daxter:block/precursor_metal/circuit",
+                "uvlock": true,
+                "x": 90
+            },
+            "when": {
+                "down": "false",
+                "east": "false",
+                "north": "false",
+                "south": "false",
+                "up": "false",
+                "west": "false"
+            }
+        }
+    ]
+}
