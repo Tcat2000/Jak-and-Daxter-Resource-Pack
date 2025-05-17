@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/custom/magma_color1",
+		"0": "jak_and_daxter:block/custom/magma_color1",
 		"1": "block/lava_still",
 		"particle": "block/lava_still"
 	},

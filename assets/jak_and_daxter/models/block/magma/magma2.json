@@ -1,7 +1,7 @@
 {
 	"credit": "Made by Tcathebluecreper",
 	"textures": {
-		"0": "block/custom/magma_color2",
+		"0": "jak_and_daxter:block/custom/magma_color2",
 		"1": "block/lava_still",
 		"particle": "magma2"
 	},

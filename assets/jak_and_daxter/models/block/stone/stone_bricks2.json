@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:block/cube_all",
     "textures": {
-      "all": "minecraft:block/bricks/bricks2"
+      "all": "jak_and_daxter:block/bricks/bricks2"
     }
   }
   
